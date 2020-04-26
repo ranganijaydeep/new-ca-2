@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<phonemenu>
+  <section name="IOS Devices">
+    <entree Apple="true">
+      <item>IPhone 6</item>
+      <price>200</price>
+    </entree>
+    <entree Apple="true">
+      <item>IPhone 6 Plus</item>
+      <price>250</price>
+    </entree>
+    <entree Apple="true">
+      <item>IPhone 6s</item>
+      <price>275</price>
+    </entree>
+    <entree Apple="true">
+      <item>IPhone 6s Plus</item>
+      <price>325</price>
+    </entree>
+    <entree Apple="true">
+      <item>IPhone 7</item>
+      <price>350</price>
+    </entree>
+    <entree Apple="true">
+      <item>IPhone 7 Plus</item>
+      <price>420</price>
+    </entree>
+    <entree>
+      <item>iphone xs</item>
+      <price>970</price>
+    </entree>
+    <entree>
+      <item>iphone 8</item>
+      <price>679</price>
+    </entree>
+    <entree>
+      <item>iPhone 8 plus</item>
+      <price>729</price>
+    </entree>
+  </section>
+  <section name="Android">
+    <entree Samsung="true">
+      <item>Samsung S8</item>
+      <price>499</price>
+    </entree>
+    <entree Samsung="true">
+      <item>Samsung S8 Plus </item>
+      <price>599</price>
+    </entree>
+    <entree Samsung="true">
+      <item>Samsung S9 </item>
+      <price>570</price>
+    </entree>
+    <entree Samsung="true">
+      <item>Samsung S9 Plus </item>
+      <price>670</price>
+    </entree>
+    <entree Samsung="true">
+      <item>Samsung S10E</item>
+      <price>750</price>
+    </entree>
+    <entree Samsung="true">
+      <item>Samsung S10</item>
+      <price>829</price>
+    </entree>
+  </section>
+  <section name="Kai OS">
+    <entree>
+      <item>Doro Primo 615</item>
+      <price>69</price>
+    </entree>
+  </section>
+  <section name="Basic">
+    <entree Nokia="true">
+      <item>Nokia 105</item>
+      <price>30</price>
+    </entree>
+    <entree Nokia="true">
+      <item>Nokia 150</item>
+      <price>35</price>
+    </entree>
+    <entree Nokia="true">
+      <item>Nokia 200</item>
+      <price>40</price>
+    </entree>
+    <entree Nokia="true">
+      <item>Nokia 205</item>
+      <price>45</price>
+    </entree>
+  </section>
+</phonemenu>
